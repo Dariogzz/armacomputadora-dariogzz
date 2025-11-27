@@ -11,3 +11,29 @@ body {
     padding: 10px;
     font-weight: bold;
 }
+
+.linea {
+    height: 8px;
+    background:white;
+    border-top: 8px solid white;
+}
+
+.subtitulo {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.linea {
+    height: 8px;
+    background:white;
+    border-top: 8px solid white;
+}
+
+.Gabinete {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
