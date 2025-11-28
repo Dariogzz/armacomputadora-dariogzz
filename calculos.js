@@ -65,6 +65,65 @@ if (gabinete == "Minitorre") {
         total = total + 3500;
     }
 
-
+if (document.getElementById("accMouse").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accTeclado").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accBocinas").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accWebcam").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accUPS").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accAlfrombrilla").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accControl").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accLuzRGB").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accSilla").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accWifi").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accHubUSB").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accAudifonos").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accMonitorExtra").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accSoporte").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accVentilador").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accMicrofono").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accLectorSD").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accHDMI").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accRefrigerante").checked) {
+    total = total + 150;
+}
+if (document.getElementById("accHerramientas").checked) {
+    total = total + 150;
+}
     alert("El total es: $" + total);
 }
