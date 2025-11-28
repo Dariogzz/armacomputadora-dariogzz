@@ -37,3 +37,33 @@ body {
     color: white;
     font-weight: bold;
 }
+
+.Procesador {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Discoduro {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
+.MemoriaRAM {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Monitor {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Accesorios {
+    background: black;
+    color: white;
+    font-weight: bold;
+}
