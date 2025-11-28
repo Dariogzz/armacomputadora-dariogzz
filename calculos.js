@@ -80,7 +80,7 @@ if (document.getElementById("accWebcam").checked) {
 if (document.getElementById("accUPS").checked) {
     total = total + 150;
 }
-if (document.getElementById("accAlfrombrilla").checked) {
+if (document.getElementById("accAlfombrilla").checked) {
     total = total + 150;
 }
 if (document.getElementById("accControl").checked) {
